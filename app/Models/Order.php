@@ -2,7 +2,7 @@
 
 namespace App\Models;
 
-use App\OrderStatus;
+use App\Enum\OrderStatus;
 use Illuminate\Database\Eloquent\Model;
 
 class Order extends Model
