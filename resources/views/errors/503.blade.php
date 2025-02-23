@@ -9,8 +9,9 @@
     <style>
 
         html { width: 100%; height: 100%; }
-        body { text-align: center; margin: 0px; padding: 0px; height: 100%; color: 	#008080; font-family: sans-serif;
+        body { text-align: center; margin: 0px; padding: 0px; height: 100%; color: 	#FFBF00; font-family: sans-serif;
         /* background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB); */
+        background-color: #000000;
         background-size: 400% 400%;
         -webkit-animation: Gradient 15s ease infinite;
         -moz-animation: Gradient 15s ease infinite;
